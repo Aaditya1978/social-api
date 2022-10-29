@@ -1,0 +1,3 @@
+# ingonre node_modules and .env
+.env
+node_modules
